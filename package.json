@@ -1,0 +1,22 @@
+{
+  "name": "phase-2-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Vickopiyo/phase-2-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vickopiyo/phase-2-api/issues"
+  },
+  "homepage": "https://github.com/Vickopiyo/phase-2-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
